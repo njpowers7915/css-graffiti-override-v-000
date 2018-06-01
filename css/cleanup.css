@@ -16,7 +16,7 @@
   display:none;
 }
 
-.parent div {
+.parent ~ div {
   display:none;
 }
 
