@@ -20,7 +20,7 @@
   display:none;
 }
 
-#wall .slick {
+#wall + div {
   display:none;
 }
 
