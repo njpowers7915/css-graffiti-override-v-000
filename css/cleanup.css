@@ -8,7 +8,7 @@
   display:none;
 }
 
-.div #tag-3.slick {
+.parent+div {
   display:none;
 }
 
